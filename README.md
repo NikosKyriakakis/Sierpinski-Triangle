@@ -3,4 +3,5 @@ A simple C++/Freeglut program to recursively create a Sierpinski triangle, with 
 Dependencies: Freeglut.
 
 Compilation on Ubuntu (without usage of make): g++ -o sierpinski Main.cpp Point.cpp Triangle.cpp -lGL -lGLU -lglut
+
 Run: ./sierpinski 7
