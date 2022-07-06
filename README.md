@@ -5,3 +5,4 @@ Dependencies: Freeglut.
 Compilation on Ubuntu (without usage of make): g++ -o sierpinski Main.cpp Point.cpp Triangle.cpp -lGL -lGLU -lglut
 
 Run: ./sierpinski 7
+![Screenshot](sierpinski.png)
